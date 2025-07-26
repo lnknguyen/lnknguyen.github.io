@@ -26,7 +26,7 @@ latest_posts:
 
 Science. Data. Software — and everything in between.
 
-I am a Doctoral Researcher at the [DigiTraces Lab](https://digitraceslab.com/), focusing on computational social science. I build statistical and machine‑learning models to study social and behavioral phenomena.
+I am a Doctoral Researcher at the [DigiTraces Lab](https://digitraceslab.com/), focusing on computational social science. I develop statistical and machine learning models to examine human behavior and its temporal stability. Beyond that, my interests include reproducible science enabled by high‑quality, open‑source software.
 
 Before my PhD, I earned a Master of Science from Aalto University in the Master’s Programme in Machine Learning, Data Science, and Artificial Intelligence (Macadamia).
 
