@@ -5,7 +5,7 @@
     "email": "nguyen.luong@aalto.fi",
     "phone": "+358 44 240 4485",
     "url": "https://lnknguyen.xyz",
-    "summary": "Vietnamese-born data scientist/engineer interested in reproducible, open science enabled by high-quality software."
+    "summary": "Vietnamese-born data scientist/engineer. Interested in reproducible and open science enabled by high-quality software."
   },
   "work": [
     {
@@ -66,12 +66,9 @@
       "name": "Statistical Modeling",
       "keywords": [
         "Linear & generalized linear models (GLM)",
-        "Generalized additive models (GAM)",
         "Mixed-effects / multilevel models (LMM/GLMM)",
         "Bayesian inference (Stan, PyMC)",
-        "Time-series (ARIMA, state-space models)",
         "Survival analysis (Cox, parametric models)",
-        "Causal inference (DAGs, propensity scores, ATE)",
         "Hypothesis testing & multiple testing (FDR, Bonferroni)",
         "Bootstrapping & permutation tests",
         "Model diagnostics & residual analysis"

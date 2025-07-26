@@ -1,0 +1,59 @@
+name: Build CV PDF
+
+on:
+  push:
+    paths:
+      - "cv.md"
+      - ".github/workflows/cv-pdf.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write  # needed for the "commit back" step
+
+env:
+  INPUT_MD: cv.md
+  OUT_DIR: build
+  OUT_PDF: Nguyen_Luong_CV.pdf
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and TeX (XeLaTeX)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            pandoc texlive-xetex texlive-fonts-recommended texlive-latex-recommended
+
+      - name: Build PDF from Markdown
+        run: |
+          mkdir -p "$OUT_DIR"
+          pandoc "$INPUT_MD" -o "$OUT_DIR/$OUT_PDF" \
+            --from gfm+raw_html \
+            --pdf-engine=xelatex \
+            -V geometry:margin=1in \
+            -V mainfont="DejaVu Sans" \
+            -V monofont="DejaVu Sans Mono" \
+            -V linkcolor=blue -V urlcolor=blue \
+            --metadata=title:"Nguyen Luong — CV"
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: CV-PDF
+          path: ${{ env.OUT_DIR }}/${{ env.OUT_PDF }}
+
+      # Optional: commit the generated PDF back to the repo root
+      - name: Commit PDF back to repo
+        if: github.ref == 'refs/heads/main'
+        run: |
+          cp "$OUT_DIR/$OUT_PDF" "$OUT_PDF"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$OUT_PDF"
+          git commit -m "Update CV PDF [skip ci]" || echo "No changes to commit"
+          git push
+
