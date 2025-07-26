@@ -24,6 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Science. Data. Software — and everything in between.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a Doctoral Researcher at the [DigiTraces Lab](https://digitraceslab.com/), focusing on computational social science. I build statistical and machine‑learning models to study social and behavioral phenomena.
+
+Before my PhD, I earned a Master of Science from Aalto University in the Master’s Programme in Machine Learning, Data Science, and Artificial Intelligence (Macadamia).
+
+Earlier, I worked as an iOS software developer at [ParkMan](https://parkman.io), a startup based in Finland.
