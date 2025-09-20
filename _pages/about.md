@@ -24,10 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Science. Data. Software — and everything in between.
+{Science, Data, Software}
 
-I am a Doctoral Researcher at the [DigiTraces Lab](https://digitraceslab.com/), focusing on computational social science. I develop statistical and machine learning models to examine human behavior and its temporal stability. Beyond that, my interests include reproducible science enabled by high‑quality, open‑source software.
+Starting November 2025, I will join Aalto University as a Postdoctoral Research Software Engineer, funded by the AI Factory and affiliated with the ELLIS Institute Finland. My work will focus on the technological side of HPC and AI for large-scale training. 
 
-Before my PhD, I earned a Master of Science from Aalto University in the Master’s Programme in Machine Learning, Data Science, and Artificial Intelligence (Macadamia).
+I am currently a Doctoral Researcher at the DigiTraces Lab (computational social science), with an expected PhD completion in October 2025. I am interested in reproducible science enabled by high-quality, open-source software. 
+
+Before that, I earned an M.Sc. in Machine Learning, Data Science, and Artificial Intelligence (Macadamia) from Aalto University.
 
 Earlier, I worked as an iOS software developer at [ParkMan](https://parkman.io), a startup based in Finland.
