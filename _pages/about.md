@@ -26,9 +26,9 @@ latest_posts:
 
 {Science, Data, Software}
 
-Starting November 2025, I will join Aalto University as a Postdoctoral Research Software Engineer, funded by the AI Factory and affiliated with the ELLIS Institute Finland. My work will focus on the technological side of HPC and AI for large-scale training. 
+Starting November 2025, I will continue to work at Aalto University as a <Postdoctoral Researcher | Academic Research Software Engineer>, funded by the AI Factory and affiliated with the [ELLIS Institute Finland](https://www.ellisinstitute.fi/). Instead of the traditional research route, my imminent work will focus on the technological side of AI, which involves heavy utilization of HPC for MLOps procedures.
 
-I am currently a Doctoral Researcher at the DigiTraces Lab (computational social science), with an expected PhD completion in October 2025. I am interested in reproducible science enabled by high-quality, open-source software. 
+I am currently a Doctoral Researcher at the DigiTraces Lab, expecting to graduate by November 2025. My research involves learning behavioral structure in large-scale digital traces and leveraging those patterns to predict mental health markers using statistical and machine learning methods. I care as much about how we do science as what we find: I design reproducible analysis pipelines, apply software engineering best practice practices, and involve in developing open-source tools that others can build on.
 
 Before that, I earned an M.Sc. in Machine Learning, Data Science, and Artificial Intelligence (Macadamia) from Aalto University.
 
