@@ -26,10 +26,11 @@ latest_posts:
 
 {Science, Data, Software}
 
-Starting November 2025, I will continue to work at Aalto University as a <Postdoctoral Researcher \| Academic Research Software Engineer>, funded by the AI Factory and affiliated with the [ELLIS Institute Finland](https://www.ellisinstitute.fi/). Instead of the traditional research route, my imminent work will focus on the technological side of AI, which involves heavy utilization of HPC for MLOps procedures.
 
-I am currently a Doctoral Researcher at the [DigiTraces Lab](https://www.digitraceslab.com/), expecting to graduate by November 2025. My research involves learning behavioral structure in large-scale digital traces and leveraging those patterns to predict mental health markers using statistical and machine learning methods. Besides that, I am interested in promoting open and reproducible science by publishing reproducible analysis pipeline and contributing to open-source code.
+Call me [Nguyen](https://www.youtube.com/shorts/qCDNJUHRlaM). I am a <Postdoctoral Researcher \|  Research Software Engineer> at Aalto University, funded by the LUMI AI Factory and affiliated with the [ELLIS Institute Finland](https://www.ellisinstitute.fi/). My work focuses on improving the computational aspects of research, with an emphasis on MLOps practices.
+
+Earlier, I was a Doctoral Researcher at the [DigiTraces Lab](https://www.digitraceslab.com/). My research involved learning behavioral structure in large-scale digital traces and leveraging those patterns to predict mental health markers using statistical and machine learning methods. Besides that, I am interested in promoting open and reproducible science by publishing reproducible analysis pipeline and contributing to open-source code.
 
 Before that, I earned an M.Sc. in Machine Learning, Data Science, and Artificial Intelligence (Macadamia) from Aalto University.
 
-Earlier, I worked as an iOS software developer at [ParkMan](https://parkman.io), a startup based in Finland.
+Even before this, I worked as an iOS software developer at [ParkMan](https://parkman.io), a startup based in Finland.
