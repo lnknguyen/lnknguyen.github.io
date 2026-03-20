@@ -45,10 +45,10 @@ Call me [Nguyen](https://www.youtube.com/shorts/qCDNJUHRlaM).
 
     window.speechSynthesis.speak(u);
   }
-</script> I am a <Postdoctoral Researcher \|  Research Software Engineer> at Aalto University, funded by the LUMI AI Factory and affiliated with the [ELLIS Institute Finland](https://www.ellisinstitute.fi/). My work focuses on improving the computational aspects of research, with an emphasis on MLOps practices.
+</script> I am a <Postdoctoral Researcher \|  Research Software Engineer> at Aalto University, funded by the LUMI AI Factory and affiliated with the [ELLIS Institute Finland](https://www.ellisinstitute.fi/). My work focuses on improving the computational aspects of research, with an emphasis on MLOps practices. I also occasionally teach in [coderefinery](https://coderefinery.github.io/).
 
-Earlier, I was a Doctoral Researcher at the [DigiTraces Lab](https://www.digitraceslab.com/). My research involved learning behavioral structure in large-scale digital traces and leveraging those patterns to predict mental health markers using statistical and machine learning methods. Besides that, I am interested in promoting open and reproducible science by publishing reproducible analysis pipeline and contributing to open-source code.
+Earlier, I was a Doctoral Researcher at the [DigiTraces Lab](https://www.digitraceslab.com/). My research involved learning behavioral structure in large-scale digital traces and leveraging those patterns to predict mental health markers using statistical and machine learning methods. 
 
 Before that, I earned an M.Sc. in Machine Learning, Data Science, and Artificial Intelligence (Macadamia) from Aalto University.
 
-Even before this, I worked as an iOS software developer at [ParkMan](https://parkman.io), a startup based in Finland.
+Before this, I worked as an iOS software developer at [ParkMan](https://parkman.io), a startup based in Finland.
