@@ -45,7 +45,7 @@ Call me [Nguyen](https://www.youtube.com/shorts/qCDNJUHRlaM).
 
     window.speechSynthesis.speak(u);
   }
-</script> I am a <Postdoctoral Researcher \|  Research Software Engineer> at Aalto University, funded by the LUMI AI Factory and affiliated with the [ELLIS Institute Finland](https://www.ellisinstitute.fi/). My work focuses on improving the computational aspects of research, with an emphasis on MLOps practices. I also occasionally teach in [coderefinery](https://coderefinery.github.io/).
+</script> I am a <Postdoctoral Researcher \|  Research Software Engineer> at Aalto University, funded by the LUMI AI Factory and affiliated with the [ELLIS Institute Finland](https://www.ellisinstitute.fi/). Broadly speaking, my work focuses on improving the computational aspects of research with an emphasis on MLOps practices. I enjoy working with: automated data analysis pipeline, deep learning optimization, and reproducible environments. I occasionally teach in [coderefinery](https://coderefinery.github.io/).
 
 Earlier, I was a Doctoral Researcher at the [DigiTraces Lab](https://www.digitraceslab.com/). My research involved learning behavioral structure in large-scale digital traces and leveraging those patterns to predict mental health markers using statistical and machine learning methods. 
 
