@@ -58,8 +58,7 @@ In practice, I enjoy working with deep-learning training and optimization, autom
 I also occasionally teach with
 [CodeRefinery](https://coderefinery.github.io/), a Nordic training network that teaches researchers practical tools for reusable, reproducible, and open research software.
 
-I earned my **PhD in Computer Science from Aalto University in 2026** at the
-[DigiTraces Lab](https://www.digitraceslab.com/). My dissertation,
+I earned my **PhD in Computer Science from Aalto University in 2026**, under the supervision of [Dr. Talayeh Aledavood](https://talayeh.xyz/) at the [DigiTraces Lab](https://www.digitraceslab.com/). My dissertation,
 *Behavioral Sensing for Routine Characterization and Mental Health*,
 studied how longitudinal data from smartphones and wearable devices can be used to characterize daily behavioral routines and their relationship with mental health.
 
