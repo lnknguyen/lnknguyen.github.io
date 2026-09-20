@@ -53,19 +53,15 @@ and affiliated with the
 
 My work sits at the intersection of **machine learning, scientific computing, and research software engineering**. I help researchers design and build scalable, reproducible computational workflows, with a particular interest in **ML/HPC pipelines, GPU computing, containerized environments, workflow automation, and MLOps**.
 
-In practice, I enjoy working on things such as deep-learning training and optimization, automated data and evaluation pipelines, HPC/Slurm workflows, Docker and Apptainer environments, experiment tracking, profiling, CI/CD, and making research software easier to reproduce and maintain.
+In practice, I enjoy working with deep-learning training and optimization, automated data and evaluation pipelines, HPC/Slurm workflows, Docker and Apptainer environments, experiment tracking, profiling, CI/CD, and in general, making research software easier to reproduce and maintain.
 
 I also occasionally teach with
 [CodeRefinery](https://coderefinery.github.io/), a Nordic training network that teaches researchers practical tools for reusable, reproducible, and open research software.
 
-I earned my **PhD in Computer Science from Aalto University in 2026**. My dissertation,
+I earned my **PhD in Computer Science from Aalto University in 2026** at the
+[DigiTraces Lab](https://www.digitraceslab.com/). My dissertation,
 *Behavioral Sensing for Routine Characterization and Mental Health*,
 studied how longitudinal data from smartphones and wearable devices can be used to characterize daily behavioral routines and their relationship with mental health.
-
-During my PhD at the
-[DigiTraces Lab](https://www.digitraceslab.com/), I worked with large-scale multimodal behavioral data spanning sleep, physical activity, mobility, communication, and device use. My research combined **statistical modeling, time-series analysis, machine learning, and reproducible cross-cohort analysis**.
-
-Earlier, I earned an **M.Sc. in Machine Learning, Data Science, and Artificial Intelligence** from Aalto University, where my thesis focused on estimating treatment effects from clinical data using Transformer-based models.
 
 Before moving into research, I worked as a **Senior iOS Developer** at
 [ParkMan](https://parkman.io), a Finnish technology startup, where I worked on product engineering, mobile architecture, CI/CD, analytics-driven product development, and large-scale modernization of the iOS codebase.
