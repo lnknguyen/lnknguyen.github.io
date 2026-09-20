@@ -1,4 +1,3 @@
-```
 ---
 layout: about
 title: about
@@ -70,4 +69,4 @@ Earlier, I earned an **M.Sc. in Machine Learning, Data Science, and Artificial I
 
 Before moving into research, I worked as a **Senior iOS Developer** at
 [ParkMan](https://parkman.io), a Finnish technology startup, where I worked on product engineering, mobile architecture, CI/CD, analytics-driven product development, and large-scale modernization of the iOS codebase.
-```
+
