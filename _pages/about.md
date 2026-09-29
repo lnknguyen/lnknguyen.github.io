@@ -51,15 +51,12 @@ I am a Postdoctoral Researcher and Research Software Engineerat
 and affiliated with the
 [ELLIS Institute Finland](https://www.ellisinstitute.fi/).
 
-My work sits at the intersection of machine learning, scientific computing, and research software engineering. I help researchers design and build scalable, reproducible computational workflows, with a particular interest in **ML/HPC pipelines, GPU computing, containerized environments, workflow automation, and MLOps**.
+My work sits at the intersection of machine learning, scientific computing, and research software engineering. I help researchers design and build scalable, reproducible computational workflows, with a particular interest in MLOps.
 
-In practice, I enjoy working with deep-learning training and optimization, automated data and evaluation pipelines, HPC/Slurm workflows, Docker and Apptainer environments, experiment tracking, profiling, CI/CD, and in general, making research software easier to reproduce and maintain.
+In practice, I enjoy working with deep learning training and optimization, automated data and evaluation pipelines, HPC/Slurm workflows, Docker and Apptainer environments, experiment tracking, profiling, CI/CD, and in general, making research software easier to reproduce and maintain. I also occasionally teach in [CodeRefinery](https://coderefinery.github.io/), a Nordic training network that teaches researchers practical tools for reusable, reproducible, and open research software.
 
-I also occasionally teach with
-[CodeRefinery](https://coderefinery.github.io/), a Nordic training network that teaches researchers practical tools for reusable, reproducible, and open research software.
-
-I earned my PhD in Computer Science from Aalto University in 2026, under the supervision of [Dr. Talayeh Aledavood](https://talayeh.xyz/) at the [DigiTraces Lab](https://www.digitraceslab.com/). My dissertation, which can be found [here](https://aaltodoc.aalto.fi/items/d0cd3534-4e5f-4ea3-8fb9-e11e0fa6953f), studies how longitudinal data from smartphones and wearable devices can be used to characterize daily daily routines and their relationship with mental health.
+I earned my PhD in Computer Science from Aalto University in 2026, under the supervision of [Dr. Talayeh Aledavood](https://talayeh.xyz/) at the [DigiTraces Lab](https://www.digitraceslab.com/). My [dissertation](https://aaltodoc.aalto.fi/items/d0cd3534-4e5f-4ea3-8fb9-e11e0fa6953f), studies how longitudinal data from smartphones and wearable devices can be used to characterize daily routines and study mental health.
 
 Before moving into research, I worked as a Senior iOS Developer at
-[ParkMan](https://parkman.io), a Finnish technology startup, where I worked on product engineering, mobile architecture, CI/CD, analytics-driven product development, and large-scale modernization of the iOS codebase.
+[ParkMan](https://parkman.io), a Finnish technology startup. There, I worked on product engineering, product roadmap, mobile architecture, CI/CD platform, and large-scale modernization of the iOS codebase.
 
