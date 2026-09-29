@@ -58,9 +58,7 @@ In practice, I enjoy working with deep-learning training and optimization, autom
 I also occasionally teach with
 [CodeRefinery](https://coderefinery.github.io/), a Nordic training network that teaches researchers practical tools for reusable, reproducible, and open research software.
 
-I earned my **PhD in Computer Science from Aalto University in 2026**, under the supervision of [Dr. Talayeh Aledavood](https://talayeh.xyz/) at the [DigiTraces Lab](https://www.digitraceslab.com/). My dissertation,
-*Behavioral Sensing for Routine Characterization and Mental Health*,
-studied how longitudinal data from smartphones and wearable devices can be used to characterize daily behavioral routines and their relationship with mental health.
+I earned my **PhD in Computer Science from Aalto University in 2026**, under the supervision of [Dr. Talayeh Aledavood](https://talayeh.xyz/) at the [DigiTraces Lab](https://www.digitraceslab.com/). My dissertation, which can be found [here](https://aaltodoc.aalto.fi/items/d0cd3534-4e5f-4ea3-8fb9-e11e0fa6953f), studies how longitudinal data from smartphones and wearable devices can be used to characterize daily daily routines and their relationship with mental health.
 
 Before moving into research, I worked as a **Senior iOS Developer** at
 [ParkMan](https://parkman.io), a Finnish technology startup, where I worked on product engineering, mobile architecture, CI/CD, analytics-driven product development, and large-scale modernization of the iOS codebase.
