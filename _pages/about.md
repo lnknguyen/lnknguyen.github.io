@@ -46,7 +46,7 @@ Call me [Nguyen](https://www.youtube.com/shorts/qCDNJUHRlaM).
   }
 </script>
 
-I am a **<Postdoctoral Researcher | Research Software Engineer>** at [Aalto University](https://www.aalto.fi/), funded by the LUMI AI Factory and affiliated with the [ELLIS Institute Finland](https://www.ellisinstitute.fi/).
+I am a **\<Postdoctoral Researcher | Research Software Engineer\>** at [Aalto University](https://www.aalto.fi/), funded by the LUMI AI Factory and affiliated with the [ELLIS Institute Finland](https://www.ellisinstitute.fi/).
 
 My work sits at the intersection of machine learning, scientific computing, and research software engineering. I help researchers design and build scalable, reproducible computational workflows, with a particular interest in **MLOps**.
 
