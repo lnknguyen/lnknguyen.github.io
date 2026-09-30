@@ -46,7 +46,7 @@ Call me [Nguyen](https://www.youtube.com/shorts/qCDNJUHRlaM).
   }
 </script>
 
-I am a **\<Postdoctoral Researcher | Research Software Engineer\>** at [Aalto University](https://www.aalto.fi/), funded by the LUMI AI Factory and affiliated with the [ELLIS Institute Finland](https://www.ellisinstitute.fi/).
+I am a [Research Software Engineer](https://ukrse.github.io/who.html) at [Aalto University](https://www.aalto.fi/), funded by the LUMI AI Factory and affiliated with the [ELLIS Institute Finland](https://www.ellisinstitute.fi/).
 
 My work sits at the intersection of machine learning, scientific computing, and research software engineering. I help researchers design and build scalable, reproducible computational workflows, with a particular interest in **MLOps**.
 
@@ -54,5 +54,5 @@ In practice, I enjoy working with deep learning training and optimization, autom
 
 I earned my PhD in Computer Science from Aalto University in 2026, under the supervision of [Dr. Talayeh Aledavood](https://talayeh.xyz/) at the [DigiTraces Lab](https://www.digitraceslab.com/). My [dissertation](https://aaltodoc.aalto.fi/items/d0cd3534-4e5f-4ea3-8fb9-e11e0fa6953f) studies how longitudinal data from smartphones and wearable devices can be used to characterize daily routines and study mental health.
 
-Before moving into research, I worked as a Senior iOS Developer at [ParkMan](https://parkman.io), a Finnish technology startup. There, I worked on product engineering, product roadmap, mobile architecture, CI/CD platform, and large-scale modernization of the iOS codebase.
+Before moving into research, I worked as a **Senior iOS Developer** at [ParkMan](https://parkman.io), a Finnish parking management platform. There, I worked on product engineering, product roadmap, mobile architecture, CI/CD platform, and large-scale modernization of the iOS codebase.
 
