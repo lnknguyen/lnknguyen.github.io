@@ -3,19 +3,15 @@ layout: default
 ---
 
 {% if page.cv_pdf %}
-  <a
-    {% if page.cv_pdf contains '://' %}
-      href="{{ page.cv_pdf }}"
-    {% else %}
-      href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-    {% endif %}
-    target="_blank"
-    rel="noopener noreferrer"
-    class="float-right"
-    style="font-size: 2.25rem; line-height: 1;"
-    aria-label="Download PDF"
-    title="Download PDF"
-  >
-    <i class="fa-solid fa-file-pdf"></i>
-  </a>
+  {% if page.cv_pdf contains '://' %}
+    {% assign pdf_url = page.cv_pdf %}
+  {% else %}
+    {% assign pdf_url = page.cv_pdf | prepend: 'assets/pdf/' | relative_url %}
+  {% endif %}
+
+  <script>
+    window.location.replace({{ pdf_url | jsonify }});
+  </script>
+
+  <a href="{{ pdf_url | escape }}">Open CV (PDF)</a>
 {% endif %}
